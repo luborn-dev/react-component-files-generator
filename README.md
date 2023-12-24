@@ -9,7 +9,7 @@ A utility for automating the generation of React component files and folder stru
 
 ```bash
 npm install -g component-files-helper
-
+```
 
 ## Usage
 
